@@ -1,3 +1,7 @@
 opencv-python
-deepface
-tf_keras
+tensorflow
+keras
+numpy
+pandas
+scikit-learn
+matplotlib
